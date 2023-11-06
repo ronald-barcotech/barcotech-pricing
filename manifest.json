@@ -1,11 +1,11 @@
 {
-    "name": "sa_pricing",
-    "short_name": "sa_pricing",
+    "name": "barcotech_pricing",
+    "short_name": "barcotech_pricing",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "This is a Barcotech Project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
