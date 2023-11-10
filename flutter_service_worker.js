@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "1b7e3938dcc1d07f288c4adf286b4057",
-"assets/AssetManifest.json": "af9239ed29326eba46f47a8a08f84a78",
+const RESOURCES = {"assets/AssetManifest.bin": "ec710457e5878056c0fc6aec49896815",
+"assets/AssetManifest.json": "71047b635335f688b80edebffea87acf",
 "assets/assets/images/Alabang.png": "231c57328ac347a54d5f18c1021db312",
 "assets/assets/images/BarcotechBG.jpg": "cfedcf189edf397914bd63ec50a5529e",
 "assets/assets/images/Cainta.png": "6b731c208b7f4be3eff64a29dd065d79",
@@ -12,6 +12,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "1b7e3938dcc1d07f288c4adf286b4057
 "assets/assets/images/Clark.png": "26f4cbb668b2d6cbccb6a1a3081638fc",
 "assets/assets/images/Davao.png": "eec1450f6d81988ce835f4a18b2952d5",
 "assets/assets/images/DS2208.png": "cb9afc5299e693eb104ce169edad7559",
+"assets/assets/images/HomeBG.png": "9fcfa8a3907a6e4f8ae21c6b1eb02929",
 "assets/assets/images/HWSCANNER.png": "6fce105a43a458bdab6d38e81997b67f",
 "assets/assets/images/Key.png": "9863d0f87c41a2777b522c9269a1c663",
 "assets/assets/images/LABELRIBBON.png": "d37a278eddb361fb0618914625549179",
@@ -37,9 +38,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "1b7e3938dcc1d07f288c4adf286b4057
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6d0c3bc00db106b67875df24222b8505",
-"/": "6d0c3bc00db106b67875df24222b8505",
-"main.dart.js": "3e034817d103f2d4447747afc55d7326",
+"index.html": "772653b2d214312bced170b23e9dfbfe",
+"/": "772653b2d214312bced170b23e9dfbfe",
+"main.dart.js": "14f9f3efca4912d86db8a376a3d00427",
 "manifest.json": "cced5fab8d7dd3fd18165fd4a2a12c5a",
 "version.json": "77a08372abb093a8307672e988f4ade1"};
 // The application shell files that are downloaded before a service worker can
